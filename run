@@ -1,0 +1,2 @@
+#!/bin/bash
+$(dirname $0)/build $1 && ./a.out < $(dirname $1)/input.txt
