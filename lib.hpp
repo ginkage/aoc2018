@@ -7,16 +7,18 @@
 #include <map>
 #include <numeric>
 #include <queue>
+#include <random>
 #include <regex>
 #include <set>
 #include <sstream>
+#include <stack>
 #include <string>
 #include <unordered_map>
 #include <unordered_set>
 #include <vector>
 #include <unistd.h>
 #include <Eigen/Dense>
-//#include <png++/png.hpp>
+#include <png++/png.hpp>
 #include <openssl/md5.h>
 
 using namespace std;
